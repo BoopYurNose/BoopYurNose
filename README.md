@@ -5,13 +5,13 @@
 
 <img align="right" height="250" src="https://media.tenor.com/W1Zbl2cAxeUAAAAM/consequences-cat.gif"  />
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning JavaScript
 
-- 👯 I’m looking to collaborate on **Anything at the moment**
+- 👯 I’m looking to collaborate on Anything at the moment
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about Anything
 
-- 📫 How to reach me **zacharybaca07@gmail.com**
+- 📫 How to reach me zacharybaca07@gmail.com
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/10DUi--iYayfY2g4vBctfJ419n5zb9GaV/edit?usp=sharing&ouid=103958014311408974472&rtpof=true&sd=true](https://docs.google.com/document/d/10DUi--iYayfY2g4vBctfJ419n5zb9GaV/edit?usp=sharing&ouid=103958014311408974472&rtpof=true&sd=true)
 
