@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boopyurnose&label=Profile%20views&color=0e75b6&style=flat" alt="boopyurnose" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boopyurnose" alt="boopyurnose" /></a> </p>
+<img align="right" height="250" src="https://media.tenor.com/W1Zbl2cAxeUAAAAM/consequences-cat.gif"  />
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boopyurnose&show_icons=true&locale=en" alt="boopyurnose" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boopyurnose&" alt="boopyurnose" /></p>
+
+<img align="left" height="500" src="https://cdn.discordapp.com/attachments/1011606093388075059/1451074324143280138/togif.gif?ex=69ab0606&is=69a9b486&hm=f3447c3f5cc72dcf12bd4c455eb4d3b5bca8c2ce81cdc600a5db4dab2fac3da2"  />
