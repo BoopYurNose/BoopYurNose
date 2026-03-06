@@ -5,11 +5,11 @@
 
 <img align="right" height="250" src="https://media.tenor.com/W1Zbl2cAxeUAAAAM/consequences-cat.gif"  />
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning javascript
 
-- 👯 I’m looking to collaborate on Anything at the moment
+- 👯 I’m looking to collaborate on anything at the moment
 
-- 💬 Ask me about Anything
+- 💬 Ask me about anything
 
 - 📫 How to reach me zacharybaca07@gmail.com
 
