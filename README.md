@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/10DUi--iYayfY2g4vBctfJ419n5zb9GaV/edit?usp=sharing&ouid=103958014311408974472&rtpof=true&sd=true](https://docs.google.com/document/d/10DUi--iYayfY2g4vBctfJ419n5zb9GaV/edit?usp=sharing&ouid=103958014311408974472&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
+<div>https://discordapp.com/users/732584599615701042</div>
 <p align="left">
 </p>
 
