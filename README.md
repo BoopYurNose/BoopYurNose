@@ -1,4 +1,4 @@
-<h1 align="center">HEYO!, I'm Zachary Baca</h1>
+<h1 align="center">HEYO!, I'm Zachary</h1>
 <h3 align="center">The most passionate developer you'll ever meet :3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boopyurnose&label=Profile%20views&color=0e75b6&style=flat" alt="boopyurnose" /> </p>
